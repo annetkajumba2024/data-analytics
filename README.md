@@ -44,7 +44,7 @@ Balancing both views ensures that decisions are not only fair but strategic—ad
 Special thanks to:
 - UC Berkeley and Mastercard Foundation throught the Center for African Studies
 - Blum Center for Development Economies 
-- Professors: Amy Pickering, Danny Wilson, Yoshika S Crider, Joyce Kisiangani, and Lewis Msasa
+- Professors: Amy Janel Pickering, Daniel Wilson, Yoshika S Crider, Joyce Kisiangani, and Lewis Msasa
 - Charlie Joey Hadley for the [Mapping in R LinkedIn Learning course](https://www.linkedin.com/learning-login/share?account=42798068&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcreating-maps-with-r%3Ftrk%3Dshare_ent_url%26shareId%3D55rFytylQ%252BuR5yYPDufpyA%253D%253D)
 
 ## What’s Next
